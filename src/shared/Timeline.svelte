@@ -18,9 +18,9 @@
             <h1 class="is-size-3 pl-4 pt-6">{timelineEntry.year}</h1>
             {#each timelineEntry.details as detail}
                 <div class="detail-item">
-                    <div on:click={handleProjectCardOpen(detail)} class="box">
+                    <div  class="box">
                         <p class="description has-text-weight-semibold">
-                            {detail.title}
+                            {detail.title} {#if detail.keyContrib}<a href="#" on:click={handleProjectCardOpen(detail)}>(<u>view details</u>)</a>{/if}
                         </p>
                         {#if showMonthStamp}
                             <p
@@ -47,6 +47,7 @@
         overflow-y: auto;
         height: 90vh;
     }
+
 
     .timeline {
         border-left: 2px solid $grey;

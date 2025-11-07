@@ -163,6 +163,26 @@
                 },
             ],
         },
+        {
+            year: "2025",
+            details: [
+                {
+                    title: "CESIT: Frontline Education",
+                    technologies: ["ANGULAR", "AWS", "DOTNET", "POSTGRES", "SQLSERVER"],
+                    monthStamp: "March, 2025",
+                    keyContrib: [
+                        "Expanded expertise in C# and .NET Core 8.0, along with legacy .NET Framework 4.0, to independently deliver end-to-end solutions and transition into a full-stack development role",
+                        "Partnered with architects to design and implement a frontend CI/CD pipeline using AWS CDK (IaC) for a greenfield project, improving deployment efficiency",
+                        "Developed and integrated embedded micro-frontend architecture (Angular Native) for Angular 19-based UI projects, enhancing modularity and scalability",
+                        "Collaborated with UX designers to establish a unified design system, create Figma prototypes, and present design proposals to product owners — reducing design-to-code translation time by 30%",
+                    ],
+                    challenges: [
+                        "Expanding my expertise in C# and maintaining decade-old legacy .NET projects while adapting to complex U.S. federal compliance requirements in the education sector, particularly for students with special needs.",
+                    ],
+                    desc: "Frontline Education provides cloud-based software solutions that help schools and districts manage administrative tasks such as HR, payroll, student information, special education, and professional growth.",
+                },
+            ],
+        },
     ];
 </script>
 

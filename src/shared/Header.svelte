@@ -81,7 +81,7 @@
 
         <a
             target="_blank"
-            href="https://github.com/shaik-azeez-infrrd"
+            href="https://github.com/shaik-azeezahmed"
             class="navbar-item"
         >
             <SvelteTooltip tip="visit Github profile" bottom>

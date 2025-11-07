@@ -16,12 +16,15 @@
         STRIPE: "stripe",
         ELASTIC: "elastic",
         D3: "d3",
+        DOTNET: '.net',
         ANGULAR: "angular",
         VUE: "vue",
         REACT: "react",
         POSTGRES: "postgresql",
         PYTHON: "python",
         NGINX: "nginx",
+        AWS: "aws",
+        SQLSERVER: "sqlserver"
     });
 
     const techNames = Object.freeze({
@@ -34,12 +37,15 @@
         STRIPE: "Stripe Connect",
         ELASTIC: "Elastic Search",
         D3: "D3.js",
-        ANGULAR: "Angular 2+",
+        DOTNET: ".Net Core",
+        ANGULAR: "Angular",
         VUE: "Vue.js",
         REACT: "React.js",
+        AWS: "AWS",
         POSTGRES: "PostgreSQL",
         PYTHON: "Python",
         NGINX: "Nginx",
+        SQLSERVER: "Ms SQL Server"
     });
 
     export { open, close };

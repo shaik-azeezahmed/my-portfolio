@@ -8,7 +8,11 @@
                         ]
         },
         {year: '2018', details: [
-                        {title: 'Infrrd.ai Pvt. Limited (current)', monthStamp: 'Apr'}
+                        {title: 'Infrrd.ai Pvt. Limited', monthStamp: 'Apr'}
+                        ]
+        },
+        {year: '2025', details: [
+                        {title: 'CES IT Pvt. Limited', monthStamp: 'Mar'}
                         ]
         },
         ]
