@@ -12,7 +12,7 @@
                     <div class="column">
                         <h4 class="title is-4">Shaik Azeez Ahmed</h4>
                         <h5 class="subtitle is-6 is-spaced">
-                            Full-Stack Lead Engineer
+                            Full-Stack Engineer
                         </h5>
                         <p class="is-size-6-tablet">
                             I specialize in MVC based micro-services, distributed micro-frontend,
